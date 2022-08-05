@@ -1,0 +1,14 @@
+body {
+    background-color: green;
+  }
+
+.firstDiv {
+    border: 7px outset gold;
+    background-color: lightblue;
+    text-align: center;
+  }
+
+.tanim {
+
+    text-align: center;
+}
